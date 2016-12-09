@@ -1,13 +1,13 @@
-Cows and Bulls !
+# Cows and Bulls!
 
-The numerical version of bulls and cows game.
+The online version of the all famous 'Cows and Bulls' game.
 
-## How to play
+## How to play?
 The computer chooses a number and you must find it. When you try a number you
 will receive feedback. You will know how many digits exists in the computer's
 secret number and how many of them are in the correct position.
 
-## How to contribute
+## How to contribute?
 1. File an issue in the repository, using the bug tracker, describing the
    contribution you'd like to make. This will help us to get you started on the
    right foot.
